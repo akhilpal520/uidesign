@@ -1,0 +1,215 @@
+*{
+    margin: 0px;
+    padding:0px;
+     
+}
+.newsquant{
+   padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.newsq1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    height: 50px;
+       
+}
+.newq1a{
+  
+    display: flex;
+   
+    width: 70%;
+}
+.inputItem{
+    width: 100%;
+    border: 1px solid grey;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.profileItem{
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    float: right;
+
+}
+.profileImg{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.newq2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    height: 80px; 
+    
+}
+.newq2ap{
+    font-size: 20px;
+    color: gray;
+}
+span{
+    font-size: 30px;
+    color: rgb(21, 42, 150);
+
+}
+.newq2a{
+    display: flex;
+    
+    width: 70%;
+}
+.newq2b{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    float: right;
+
+}
+.newq2ba{
+    font-size: 20px;
+}
+.newq3{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px; 
+}
+.newq3a{
+    display: flex;
+    width: 70%; 
+    border: 1px solid lightgray;
+   border-radius: 10px;
+   padding: 20px;
+}
+table button{
+    background-color: rgb(202, 222, 229);
+    color:rgb(108, 140, 160) ;
+    padding: 5px;
+    border: none;
+    
+}
+.tableHead{
+    background-color: rgb(202, 222, 229);
+    
+}
+.newq3a1{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+   
+}
+
+
+.newqt1{
+    height: 25px;
+    width: 25px;
+    border-radius: 40%;
+    background-color: rgb(234, 255, 0);
+    
+}
+.newqt2{
+    height: 25px;
+    width: 25px;
+    border-radius: 40%;
+    background-color: blue; 
+}
+.newqt3{
+    height: 25px;
+    width: 25px;
+    border-radius: 40%;
+    background-color:red;
+    gap: 10px;
+}
+.newqt4{
+    height: 25px;
+    width: 25px;
+    border-radius: 40%;
+    background-color: red;
+}
+.newqt5{
+    height: 25px;
+    width: 25px;
+    border-radius: 40%;
+    background-color:green;
+}
+.newq3b{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 10px;
+    
+    /* margin-left: 40px; */
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.newq3b1{
+    display: flex;
+    flex-direction: column;
+}
+.newq3b2{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.newq3b2 button{
+    border-radius: 10px;
+    color: white;
+    background-color: #0099FF
+    ;
+    border: none;
+    padding: 0px 5px;
+    font-size: smaller;
+
+}
+.seeall{
+    border: none;
+    font-size: 20px;
+    margin:5px 0;
+    background-color: transparent;
+    color: lightskyblue;
+}
+.newqall{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    gap: 120px;
+    padding-top: 1px;
+}
+.newq4{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 400px;
+    gap: 10px;
+}
+.newq4a{
+    width: 70%;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.newq4b{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
